@@ -4,7 +4,6 @@ COLOR_RED = "\e[31m"
 COLOR_GREEN = "\e[32m"
 COLOR_YELLOW = "\e[33m"
 
-# Function to calculate and return the game result with color
 def calculate_result(user_choice, pc_choice)
   result = (user_choice - pc_choice) % 3
 

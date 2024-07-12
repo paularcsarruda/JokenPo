@@ -1,6 +1,5 @@
 # Rock, Paper and Scissors
 
-# PwD
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>

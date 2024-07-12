@@ -10,7 +10,7 @@
 
 O JokenPo é um pequeno jogo desenvolvido em Ruby. O projeto foi pensado como uma forma de exercitar e desenvolver o conteúdo do curso de desenvolvimento em Ruby da FAP/Softex, demonstrando a aplicação prática dos conceitos aprendidos em sala de aula.
 
-### Explicação da função utilizada
+# Explicando a função
 
 No jogo de pedra, papel e tesoura, temos três opções possíveis para o usuário (ou jogador) e para o computador: pedra, papel e tesoura. Cada uma dessas opções é representada por um número inteiro:
 

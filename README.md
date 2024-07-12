@@ -1,8 +1,17 @@
 # Rock, Paper and Scissors
 
-Jogo "Pedra, Papel e Tesoura" desenvolvido em Ruby, utilizando função e cor ANSI.
+# PwD
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
-## Explicação da função utilizada
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+### Descrição do Projeto
+
+O JokenPo é um pequeno jogo desenvolvido em Ruby. O projeto foi pensado como uma forma de exercitar e desenvolver o conteúdo do curso de desenvolvimento em Ruby da FAP/Softex, demonstrando a aplicação prática dos conceitos aprendidos em sala de aula.
+
+### Explicação da função utilizada
 
 No jogo de pedra, papel e tesoura, temos três opções possíveis para o usuário (ou jogador) e para o computador: pedra, papel e tesoura. Cada uma dessas opções é representada por um número inteiro:
 
@@ -10,8 +19,9 @@ No jogo de pedra, papel e tesoura, temos três opções possíveis para o usuár
 2 representa papel
 3 representa tesoura
 
-### Explicação da Expressão (user_choice - pc_choice) % 3:
+#### Explicação da Expressão 
 
+(user_choice - pc_choice) % 3:
 Subtração (user_choice - pc_choice):
 
 user_choice é o número escolhido pelo usuário.
@@ -38,3 +48,15 @@ Suponha que o usuário escolha pedra (user_choice = 1) e o computador escolha te
 result = (1 - 3) % 3
 result = (-2) % 3
 Como -2 não é positivo, adicionamos 3 (porque temos um resto negativo)
+
+### Tecnologias Utilizadas
+
+- `Ruby`
+- `RubyMine`
+
+### Em Desenvolvimento
+
+Este projeto ainda está em desenvolvimento, e novas funcionalidades e otimizações estão sendo constantemente adicionadas. Fique à vontade para contribuir com o projeto ou sugerir melhorias.
+
+### Licença
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
